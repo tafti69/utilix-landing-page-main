@@ -13,6 +13,10 @@ body {
   font-family: "Inter", sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 button {
   border: none;
   outline: none;
@@ -999,3 +1003,17 @@ footer ul li a img:hover {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+
+.privacy-wrapper {
+  margin: 3rem 2rem;
+
+}
+
+.privacy-wrapper h3 {
+  margin: 1rem 0 ;
+}
+
+.privacy-wrapper ul li {
+  margin: 6px 1.2rem;
+}
